@@ -1,7 +1,7 @@
   <p align="center">  
   <a href="https://secktoruserbot.onrender.com/">
     <img alt="secktor docs" height="300" src="[https://secktoruserbot.onrender.com/main.jpg] 
-  (https://i.imgur.com/OSOwZa5.jpg)">
+  (https://i.imgur.com/OSOwZa5.jpg)>
     <h1 align="center"> EXCEL MD Whatsapp bot</h1>
   </a>
 </p>
